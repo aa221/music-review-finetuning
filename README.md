@@ -42,6 +42,11 @@ significant negative impact on the model (since the average review had about 500
 The biggest potential improvement would just be increasing the token length, again the truncation currently is too much to capture enough information for the whole review and that is why some of these generated sentences are not as coherent as they could be!
 
 
+## Big Picture takeaway
+The model gets pretty good at associating artists to their given genre. For example, "mouse on mars" does refer to experimental music projects, while Brian wilson is a rock artist. This could be useful in the future for Genre - music tagging products. Where we can use an LLM to make these connections!
+
+
+
 
 
 
